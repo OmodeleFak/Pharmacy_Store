@@ -8,7 +8,7 @@ undertake transactions. Branches are to be scattered in Canadian cities.
 TASKS
  Create a physical model for the sales process. 
  Manually populate table basic tables using random names and data.
- Dynamically populate the transaction tables 13 and 14 using stored procedure: 
+ Dynamically populate the two transaction tables (general and pharmacy assistant specific) using a single stored procedure: 
 o Maximum of 25 drugs per transaction
 o 50000 records for each year
 o Years from 2018 to 2022.
